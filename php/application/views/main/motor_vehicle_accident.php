@@ -1,0 +1,98 @@
+		<div class="content">
+			<div class="navigator-area text-medium">
+				<br />
+				<div id="navigator" class="navigator">
+					<div class="text-title2">Service we offer:</div>
+					<ul>
+						<li>WSIB</li>
+						<li>Private Client</li>
+						<li>Motor Vehicle Accident</li>
+						<li>Extended Health Coverage</li>
+						<li>Refugees covered by IFHP</li>
+					</ul>
+				</div>
+
+				<br />
+
+				<div class="navigator">
+					<div class="text-title2">Condition we treat:</div>
+					<ul>
+						<li>Mechanic acute/ chronic low Back Pain</li>
+						<li>Lumbar disc injury with/without radiculopathy</li>
+						<li>Cervical whiplash injury</li>
+						<li>Cervical postural strain</li>
+						<li>Neck Pain with/without radiculopathy</li>
+						<li>Shoulder injury</li>
+						<li>Medical or lateral epicondylitis</li>
+						<li>Carpal Tunnel Syndrome</li>
+						<li>Sport related hip, knee and ankle injuries</li>
+						<li>Hip and knee arthritis</li>
+						<li>Plantar fasciitis</li>
+						<li>TMJ dysfunction</li>
+					</ul>
+				</div>
+
+				<br />
+			</div>
+
+			<div class="content-inner text-normal">
+				<ul>
+					<li>
+						<div>
+							<p>After you are involved in a motor vehicle accident (MVA)
+								or car accident, you should be evaluated by a professional
+								physiotherapist. You do not need a referral from a medical
+								doctor to visit a physiotherapist. You do not need to wait for
+								paperwork from your insurance company before the physiotherapy
+								visit. We have all the paperwork you need. We help you to
+								complete all the forms which can be overwhelming for you. You
+								should have called your insurance company representative and
+								have your claim number ready.</p>
+							<p>It’s critical to visit a physiotherapist ASAP after the
+								injury. The fist week is very important for your future
+								recovery. We offer treatment and education to help you to handle
+								the symptoms. If your symptoms are not improving after the
+								second week, it may last two or three months. You may feel fine
+								in the first two days, some symptoms show up after that and it
+								can be very hard to control them if we miss the critical stage.
+							</p>
+							<img src="images/therapy.jpg" class="content-left" style="padding-right:8px;" alt="Massagetherapy">
+							<p>In September 2010, healthcare providers, insurance
+								companies and the Ontario government developed one new Injury
+								Guidelines for people with MVA injuries to speed access to
+								recovery. After the initial assessment, your physiotherapist
+								will designate your injuries as Minor or Major according to the
+								guidelines. Minor injuries have a maximum mount of $3,500 for
+								treatment, Major injuries have $50,000. A minor injury would be
+								a sprain, strain, bruise, superficial skin abrasions or cuts,
+								partial joint dislocation, or whiplash without neurological
+								problem or serious spine damage. This amount of 3500 includes
+								ALL your expenses i.e. physiotherapy, massage, chiropractic,
+								acupuncture, gauze bandages, braces, splints etc</p>
+							<p>Some medical condition previously existed before the
+								accident that was worsened by a minor injury will entitle you
+								with more treatment benefit more than the limited to minor
+								injury. When the physiotherapist decides your injury is in the
+								Major injury catalogue, your auto insurance company may still 
+								want to have a second opinion by sending you for an independent medical assessment.</p>
+							<p>Physiotherapy and massage therapy visits are covered by
+								your insurance. Treatment is expected to be complete in twelve
+								weeks, starting from initial visit for assessment. If you
+								require equipment to exercise at home and products to help with
+								pain like hot/cold packs, braces, or back supports your health
+								care provider can provide them for you without getting approval
+								from your insurer or as long as the total cost is under $400.
+								The cost for these products is in addition to your $3,500 for
+								treatment.</p>
+						</div>
+					</li>
+					<li>
+						<div></div>
+					</li>
+
+					<li>
+						<div></div>
+					</li>
+				</ul>
+			</div>
+		</div>
